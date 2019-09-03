@@ -48,4 +48,5 @@ def monopoly_with_fourth_tier
       }
     }
   }
+  baseHash[:railroads][:names][:reading_railroad] = {:mortgage_value => $100"
 end
